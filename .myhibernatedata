@@ -1,0 +1,17 @@
+#MyEclipse Hibernate Properties
+#Sat Sep 17 15:28:14 CST 2016
+genVersionTag=false
+sessionFactoryName=cn.echo.hibernate.HibernateSessionFactory
+genAnnotations=false
+configFile=/JPShopping/src/hibernate.cfg.xml
+reStrategyClass=
+sessionFactoryId=
+profile=
+detectM2M=false
+genBasicCompId=false
+keyGenerator=
+createConfigFile=true
+basePersistenceClass=
+detectO2O=false
+useJavaTypes=true
+reSettingsFile=
